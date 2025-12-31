@@ -1,1 +1,23 @@
-# pc-system-info
+# PC System Information & Diagnostic Tool
+
+This project is a simple Python-based system information and diagnostic tool designed to simulate basic IT Support and Systems tasks.
+
+## Features
+- Collects operating system and hardware information
+- Displays CPU, memory, and disk usage
+- Generates a structured system report
+- Useful for troubleshooting and documentation
+
+## Technologies
+- Python
+- psutil library
+
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the script:
+   python system_info.py
+
+## Motivation
+This project was created to demonstrate fundamental knowledge of computer hardware, operating systems, and system diagnostics, aligned with IT Support and Systems internship roles.
