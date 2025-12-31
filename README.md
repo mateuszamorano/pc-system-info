@@ -19,5 +19,14 @@ This project is a simple Python-based system information and diagnostic tool des
 2. Run the script:
    python system_info.py
 
+## Executable Version
+
+This tool can be packaged as a standalone executable for end users who do not have Python installed.
+
+### Build Instructions
+```bash
+pip install pyinstaller
+pyinstaller --onefile system_info.py
+
 ## Motivation
 This project was created to demonstrate fundamental knowledge of computer hardware, operating systems, and system diagnostics, aligned with IT Support and Systems internship roles.
