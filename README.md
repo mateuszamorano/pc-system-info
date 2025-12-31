@@ -30,3 +30,7 @@ pyinstaller --onefile system_info.py
 
 ## Motivation
 This project was created to demonstrate fundamental knowledge of computer hardware, operating systems, and system diagnostics, aligned with IT Support and Systems internship roles.
+
+## Author
+
+Designed by Mateus Zamorano, with assistance from ChatGPT.
